@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "779608134267",
+    "project_id": "taskezpedal-9459d",
+    "storage_bucket": "taskezpedal-9459d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779608134267:android:a53c83529b2ae8fe1388de",
+        "android_client_info": {
+          "package_name": "com.example.taskezpedal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBphgAindXDNHwTUHINQHktRkJaV1eyXHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,9 @@
+<resources>
+    <string name="default_web_client_id" translatable="false">YOUR_DEFAULT_WEB_CLIENT_ID</string>
+    <string name="firebase_database_url" translatable="false">https://taskezpedal-9459d.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">779608134267</string>
+    <string name="google_api_key" translatable="false">AIzaSyBphgAindXDNHwTUHINQHktRkJaV1eyXHY</string>
+    <string name="google_app_id" translatable="false">1:779608134267:android:a53c83529b2ae8fe1388de</string>
+    <string name="project_id" translatable="false">taskezpedal-9459d</string>
+    <string name="storage_bucket" translatable="false">taskezpedal-9459d.appspot.com</string>
+</resources>
